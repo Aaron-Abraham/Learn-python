@@ -1,3 +1,2 @@
-name='aaron'
-for i in name:
-    print(name)
+
+print(range(1,10,2))
